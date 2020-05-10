@@ -1,0 +1,6 @@
+x=input("enter your name:")
+y=input("branch:")
+z=input("gender:")
+a=input("collage:")
+b=input("your age:")
+print(x,y,z,a,b)
